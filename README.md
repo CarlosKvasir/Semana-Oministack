@@ -1,2 +1,2 @@
-# Semana-Oministack
+# Semana Oministack 8 :rocket:
 Semana Oministack
